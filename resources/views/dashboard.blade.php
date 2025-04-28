@@ -26,7 +26,7 @@
             </div>
 
             <div class="bg-white dark:bg-gray-800 p-6 rounded-lg shadow text-center">
-                <div class="text-lg text-gray-600 dark:text-gray-300">Total Stok Produk</div>
+                <div class="text-lg text-gray-600 dark:text-gray-300">Total Stok Produk Tersedia</div>
                 <div class="text-3xl font-bold text-yellow-500 mt-2">{{ $totalStok }}</div>
             </div>
         </div>
